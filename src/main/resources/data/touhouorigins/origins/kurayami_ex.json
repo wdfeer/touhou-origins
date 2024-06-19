@@ -1,0 +1,12 @@
+{
+  "powers": [
+    "touhouorigins:kurayami_ex/nullified_seal",
+    "touhouorigins:kurayami_ex/darkness_sword",
+    "touhouorigins:kurayami_ex/power_of_darkness",
+    "touhouorigins:kurayami_ex/saint_in_darkness"
+  ],
+  "icon": "minecraft:sculk_vein",
+  "order": 8,
+  "impact": 2,
+  "unchoosable": true
+}

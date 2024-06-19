@@ -1,0 +1,13 @@
+{
+  "powers": [
+    "touhouorigins:kurayami/midnight_bird",
+    "touhouorigins:kurayami/is_that_so",
+    "touhouorigins:kurayami/chomp",
+    "touhouorigins:kurayami/light_absorption",
+    "touhouorigins:kurayami/crude_appetite",
+    "touhouorigins:kurayami/mysterious_seal"
+  ],
+  "icon": "minecraft:sculk_vein",
+  "order": 7,
+  "impact": 2
+}
