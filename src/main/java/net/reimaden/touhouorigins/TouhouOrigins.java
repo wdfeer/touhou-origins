@@ -2,6 +2,7 @@ package net.reimaden.touhouorigins;
 
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.util.Identifier;
+import net.reimaden.touhouorigins.conditions.ModConditions;
 import net.reimaden.touhouorigins.particle.ModParticles;
 import net.reimaden.touhouorigins.power.ModPowers;
 import net.reimaden.touhouorigins.sound.ModSoundEvents;
@@ -21,6 +22,7 @@ public class TouhouOrigins implements ModInitializer {
 		ModSoundEvents.register();
 		ModPowers.register();
 		ModParticles.register();
+		ModConditions.register();
 	}
 
 	public static Identifier id(String path) {
