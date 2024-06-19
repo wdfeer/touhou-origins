@@ -1,4 +1,4 @@
-package net.reimaden.touhouorigins.conditions;
+package net.reimaden.touhouorigins.condition;
 
 import io.github.apace100.apoli.data.ApoliDataTypes;
 import io.github.apace100.apoli.power.factory.condition.ConditionFactory;

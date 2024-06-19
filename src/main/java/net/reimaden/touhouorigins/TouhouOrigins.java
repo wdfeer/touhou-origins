@@ -2,7 +2,7 @@ package net.reimaden.touhouorigins;
 
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.util.Identifier;
-import net.reimaden.touhouorigins.conditions.ModConditions;
+import net.reimaden.touhouorigins.condition.ModConditions;
 import net.reimaden.touhouorigins.particle.ModParticles;
 import net.reimaden.touhouorigins.power.ModPowers;
 import net.reimaden.touhouorigins.sound.ModSoundEvents;
