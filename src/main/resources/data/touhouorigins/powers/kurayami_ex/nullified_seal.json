@@ -170,10 +170,6 @@
                 {
                   "type": "origins:origin",
                   "origin": "touhouorigins:vengeful_spirit"
-                },
-                {
-                  "type": "origins:origin",
-                  "origin": "touhouorigins:tsukumogami"
                 }
               ],
               "inverted": true
@@ -243,10 +239,6 @@
             {
               "type": "origins:origin",
               "origin": "touhouorigins:vengeful_spirit"
-            },
-            {
-              "type": "origins:origin",
-              "origin": "touhouorigins:tsukumogami"
             }
           ],
           "inverted": true
